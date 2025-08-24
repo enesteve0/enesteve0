@@ -1,5 +1,5 @@
 # 💸 Hi, I'm Enes Özkan (aka EneSteve)
-I'm an entrepreneur, building tech startups, write code, and solve problems.
+I'm an entrepreneur, building tech startups, writing code, and solving problems.
 Curious about my work and story? Visit my website for the full picture:
 🌐 [enesteve.com](https://www.enesteve.com/)
 
